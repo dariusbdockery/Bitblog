@@ -1,6 +1,6 @@
 ---
 created: 2025-12-29
-updated: 2026-03-02
+updated: 2026-03-03
 tags:
   - mistral
   - pkm
@@ -30,7 +30,7 @@ You can see quartz's excellent documentation about this [here](https://quartz.jz
 First, make sure you have Quartz [[Using Mistral to Setup My Quartz Blog for Free - Part 1. Install and Set Up Quartz|cloned and setup locally]]. Then, you need to create a new repository on [GitHub](https://github.com/) and synchronize the local Quartz repository that you've cloned to the remote repository on GitHub:
 
 1. When logged into GitHub, click on the _New_ button to create a new repository.
-2. In the `Repository name:` field, type `quartz` (or whatever you chose in [Step 1]([[#Step 1. Install and Set Up Quartz]])).
+2. In the `Repository name:` field, type `quartz` (or whatever you chose in [[Using Mistral to Setup My Quartz Blog for Free - Part 1. Install and Set Up Quartz|Part 1]]).
 3. For the `Initialize this repository:` field, **do _not_ initialize the new repository with `README`, `license`, or `gitignore` files** (to avoid conflicts with the local Quartz clone). Since Quartz is already cloned, the local repo is pre-configured by Quartz (`npx quartz create` handles the `git init` part automatically), and the GitHub repo is just a remote destination.
 	1. It should look something like this:
 		1. ![[IMG-20260217192817-3.png|800]]
