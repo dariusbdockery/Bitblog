@@ -4,7 +4,7 @@
 
 ## **About Me**
 
-![[Pasted image 20260219134739.png|300]]
+![['/content/Tech and AI/Using Mistral to Setup My Quartz Blog for Free/Attachments/Pasted image 20260219134739.png'|300]]
 
 My name is **Darius Bittle-Dockery** and I’m a **medical anthropologist turned experience designer**, obsessed with:
 
