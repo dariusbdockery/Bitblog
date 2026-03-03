@@ -2,17 +2,16 @@
 title: Welcome to the Bitblog!
 publish: true
 created: 2025-12-29
-updated: 2026-03-02
+updated: 2026-03-03
 ---
 
-# Bitblog
+![[Pasted image 20260303095900.png|300]]
+
 *Expanding the Self. Exploring the Possible.*
 
-## **About Me**
+# About Me
 
-![[Pasted image 20260219134739.png|300]]
-
-My name is **Darius Bittle-Dockery** and I’m a **medical anthropologist turned experience designer**, obsessed with:
+My name is **[Darius Bittle-Dockery](https://www.linkedin.com/in/dariusbdockery/)** and I’m a **medical anthropologist turned experience designer**, obsessed with:
 
 - **The power of mindful attention** (what takes your attention makes your reality).
 - **Tech that empowers people** (not the other way around).
@@ -24,7 +23,7 @@ I am also a [Mistral Ambassador](https://docs.mistral.ai/ambassadors) and suppor
 
 ---
 
-## **Why Bitblog?**
+# Why Bitblog?
 This is a space for personal and professional exploration where I document my journey to understand technology, the self, and the systems that shape our lives. No gatekeeping. No jargon. Just **real learning, real questions, and real experiments** in:
 - **Tech for Humans**: AI, self-hosting, and tools that empower (not exploit).
 - **Self-Expansion**: Mindfulness, discipline, and the art of *doing less to do more*.
@@ -37,7 +36,7 @@ This is a space for personal and professional exploration where I document my jo
 
 ---
 
-## **What I'm Curious About Right Now**
+# What I'm Curious About Right Now
 ### 1. **Learning in Public**
 - **AI for the Rest of Us**: Tutorials on self-hosting AI models and everyday AI projects using wonderful tools like [n8n](https://n8n.io/) and [Obsidian](https://obsidian.md/)).
 - **Tech as a Tool, Not a Trap**: How to use AI to *augment* work (e.g., research workflows, design prototyping) without losing your agency.
@@ -54,7 +53,7 @@ This is a space for personal and professional exploration where I document my jo
 
 ---
 
-## **Join the Conversation**
+# Join the Conversation
 This blog is a **two-way street**. I’m here to learn as much as I’m here to share. If you have questions, critiques, or ideas? Get in touch!:
 - **Email**: [darius.blog@mailbox.org](mailto:darius.blog@mailbox.org)
 - **Twitter/X**: [@dariusbdockery](https://twitter.com/dariusbdockery)
@@ -62,7 +61,7 @@ This blog is a **two-way street**. I’m here to learn as much as I’m here to 
 
 ---
 
-## **Support Bitblog**
+# Support Bitblog
 If this blog resonates with you in any way, consider supporting the work:
 - **Share**: Tell a friend or colleague about a post you loved.
 - **Feedback**: What do you want to see more of? Less of?
