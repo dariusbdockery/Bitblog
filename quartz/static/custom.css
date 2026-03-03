@@ -1,0 +1,9 @@
+.page-title {
+  display: flex;
+  align-items: center;
+}
+
+.page-title-icon {
+  height: 24px;
+  margin-right: 8px;
+}

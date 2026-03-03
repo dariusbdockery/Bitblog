@@ -5,7 +5,7 @@ created: 2025-12-29
 updated: 2026-03-02
 ---
 
-# Welcome to the Bitblog
+# Bitblog
 *Expanding the Self. Exploring the Possible.*
 
 ## **About Me**
