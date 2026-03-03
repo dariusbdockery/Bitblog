@@ -8,8 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      Email: "mailto:darius.blog@mailbox.org",
+      "X: @dariusbdockery": "https://twitter.com/dariusbdockery",
+      LinkedIn: "https://www.linkedin.com/in/dariusbdockery/",
     },
   }),
 }
@@ -43,10 +44,11 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
+  ],
+  afterBody: [
     Component.Backlinks(),
   ],
 }
-
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
